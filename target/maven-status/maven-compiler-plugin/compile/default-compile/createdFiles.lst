@@ -1,0 +1,4 @@
+com\example\ElectronicStore\model\Product.class
+com\example\ElectronicStore\servlet\ProductServlet.class
+com\example\ElectronicStore\TestConnection.class
+com\example\ElectronicStore\dao\ProductDAO.class
